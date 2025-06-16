@@ -1,0 +1,50 @@
+.header {
+    display: flex;
+    background-color: #1f2937;
+}
+/* Find a way to have header stay at top and take up space */
+
+.head1 {
+    display:flex;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.container {
+    display: flex;
+}
+
+.body {
+    display: flex;
+}
+
+.signup {
+    display:flex;
+}
+
+.head3 {
+    display:flex;
+}
+
+.info {
+    display:flex;
+}
+
+.Popup {
+    display: flex;
+}
+
+.head2 {
+    display: flex;
+}
+
+.body2 {
+    display:flex;
+}
+
+.Signup2 {
+    display:flex;
+}
+
