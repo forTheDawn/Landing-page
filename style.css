@@ -59,6 +59,11 @@ ul {
     width: 480px;
 }
 
+.image {
+    background-color: grey;
+    padding: 100px 100px;
+}
+
 p {
     display: flex;
 }
