@@ -5,9 +5,13 @@
     top: 0;
     right: 0;
     left: 0;
-
+    justify-content: space-between;
 }
 /* Find a way to have header stay at top and take up space */
+
+.left {
+    display: flex;
+}
 
 .head1 {
     display:flex;
