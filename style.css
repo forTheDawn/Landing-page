@@ -5,20 +5,29 @@
     top: 0;
     right: 0;
     left: 0;
-    justify-content: space-between;
+    justify-content: space-around;
+    gap: 400px;
+    padding: 8px;
 }
 /* Find a way to have header stay at top and take up space */
 
-.left {
+.left, .right {
     display: flex;
-}
+    align-items: center;
+    gap: 16px;
+  }
 
 .head1 {
     display:flex;
+    
 }
 
 ul {
     list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
 }
 
 .container {
