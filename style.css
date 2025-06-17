@@ -1,14 +1,19 @@
 .header {
     display: flex;
     background-color: #1f2937;
-    position: fixed;
     top: 0;
     right: 0;
     left: 0;
+    padding: 0px;
+    margin: 0px;
     justify-content: space-around;
     gap: 400px;
 }
 /* Find a way to have header stay at top and take up space */
+
+body {
+    margin:0px;
+}
 
 .left, .right {
     display: flex;
@@ -42,6 +47,10 @@ ul {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+}
+
+p {
+    display: flex;
 }
 
 .body {
