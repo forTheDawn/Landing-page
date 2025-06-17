@@ -7,7 +7,6 @@
     left: 0;
     justify-content: space-around;
     gap: 400px;
-    padding: 8px;
 }
 /* Find a way to have header stay at top and take up space */
 
@@ -40,6 +39,9 @@ ul {
 
 .container {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .body {
