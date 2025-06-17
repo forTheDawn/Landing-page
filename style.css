@@ -47,6 +47,8 @@ ul {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    height: 488px;
+    background-color: #1f2937;
 }
 
 p {
