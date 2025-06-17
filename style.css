@@ -60,6 +60,14 @@ ul {
     width: 480px;
 }
 
+.signup {
+    background-color:#3882F6;
+    color:white;
+    padding: 8px 32px;
+    border: 1px solid #3882F6;
+    border-radius: 10px;
+}
+
 .image {
     background-color: grey;
     padding: 100px 100px;
