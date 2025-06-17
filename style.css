@@ -49,6 +49,7 @@ ul {
     flex-wrap: wrap;
     height: 488px;
     background-color: #1f2937;
+    column-gap: 40px;
 }
 
 .leftt {
