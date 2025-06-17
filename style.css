@@ -51,6 +51,14 @@ ul {
     background-color: #1f2937;
 }
 
+.leftt {
+    width: 480px;
+}
+
+.rightt {
+    width: 480px;
+}
+
 p {
     display: flex;
 }
