@@ -1,6 +1,11 @@
 .header {
     display: flex;
     background-color: #1f2937;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+
 }
 /* Find a way to have header stay at top and take up space */
 
