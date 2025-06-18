@@ -145,10 +145,14 @@ p {
     display: flex;
     min-height: 488px;
     background-color: #E5E7EB;
+    align-items: center;
+    justify-content:space-around;
 }
 
 .body2 {
     display:flex;
+    flex-wrap: wrap;
+    width: 500px;
 }
 
 .quote {
@@ -157,6 +161,7 @@ p {
 
 .cont2 {
     display:flex;
+    
 }
 
 .bywho {
