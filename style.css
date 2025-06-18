@@ -152,7 +152,7 @@ p {
 .body2 {
     display:flex;
     flex-wrap: wrap;
-    width: 500px;
+    width:800px;
 }
 
 .quote {
@@ -162,8 +162,7 @@ p {
 }
 
 .cont2 {
-    display:flex;
-    
+  
 
 }
 
@@ -171,6 +170,11 @@ p {
    
 }
 /* Quote Content */
+
+.prac {
+    min-height: 488px;
+    background-color: white;
+}
 
 .Popup {
     display: flex;
