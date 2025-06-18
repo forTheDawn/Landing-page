@@ -100,9 +100,14 @@ p {
 /* Container Content */
 /* Information Content */
 
-.head3 {
+.information {
     display:flex;
+    height: 488px;
+    justify-content: center;
+    gap:60px;
 }
+
+
 
 .info {
     display:flex;
