@@ -156,16 +156,19 @@ p {
 }
 
 .quote {
-    display:flex;
+    font-size:36px;
+    color: #1f2937;
+    font-style: italic;
 }
 
 .cont2 {
     display:flex;
     
+
 }
 
 .bywho {
-    display:flex;
+   
 }
 /* Quote Content */
 
