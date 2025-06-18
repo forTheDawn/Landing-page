@@ -118,7 +118,9 @@ p {
 }
 
 .containuhh {
-    max-width: 200px;
+    width: 1013px;
+    height: 72px;
+    display:flex;
 }
 
 .info {
