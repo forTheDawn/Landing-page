@@ -140,6 +140,29 @@ p {
     
 }
 /* Information Content */
+/* Quote Content */
+.cont {
+    display: flex;
+    min-height: 488px;
+    background-color: #E5E7EB;
+}
+
+.body2 {
+    display:flex;
+}
+
+.quote {
+    display:flex;
+}
+
+.cont2 {
+    display:flex;
+}
+
+.bywho {
+    display:flex;
+}
+/* Quote Content */
 
 .Popup {
     display: flex;
@@ -149,9 +172,7 @@ p {
     display: flex;
 }
 
-.body2 {
-    display:flex;
-}
+
 
 .Signup2 {
     display:flex;
