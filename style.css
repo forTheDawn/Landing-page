@@ -186,21 +186,35 @@ p {
     justify-content: center;
 }
 
-.Popup {
-    display: flex;
+.Popup {  
     background-color: #3882F6;
-    padding: 48px;
-    
+    height: 40px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 50px;
+}
+
+.can {
+    display: flex;
+    align-items: flex-end;
 }
 
 .head2 {
     display: flex;
 }
 
-
+.body2 {
+    display:flex;
+}
 
 .Signup2 {
     display:flex;
+    background-color: #3882F6;
+    border: 1px solid white;
+    color:white;
 }
 
 /* Popup Content */
