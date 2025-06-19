@@ -174,6 +174,7 @@ p {
 .bywho {
    display:flex;
    font-size: 16px;
+   color: black;
 }
 /* Quote Content */
 /* Popup Content */
@@ -188,28 +189,28 @@ p {
 
 .Popup {  
     background-color: #3882F6;
-    height: 40px;
     border-radius: 10px;
     display: flex;
     flex-wrap: wrap;
-    padding: 50px;
     align-items: center;
     justify-content: space-between;
     margin:50px 80px;
     padding: 40px 80px;
 }
 
-.can {
-    display: flex;
-    align-items: flex-end;
-}
+
 
 .head2 {
     display: flex;
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
 }
 
 .body2 {
     display:flex;
+    color: white;
+    font-size: 20px;
 }
 
 .Signup2 {
