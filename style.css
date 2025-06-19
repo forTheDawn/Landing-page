@@ -191,10 +191,12 @@ p {
     height: 40px;
     border-radius: 10px;
     display: flex;
-    align-items: center;
-    justify-content: center;
     flex-wrap: wrap;
     padding: 50px;
+    align-items: center;
+    justify-content: space-between;
+    margin:50px 80px;
+    padding: 40px 80px;
 }
 
 .can {
