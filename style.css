@@ -219,7 +219,21 @@ p {
     border: 2px solid white;
     border-radius: 5px;
     color:white;
-    padding: 8px;
+    padding: 8px 16px;
 }
 
 /* Popup Content */
+/* Footer Content */
+.footer {
+    display:flex;
+    bottom: 0;
+    right: 0;
+    left:0;
+    background-color:#1f2937;
+    color:#E5E7EB;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+
+/* Footer Content */
