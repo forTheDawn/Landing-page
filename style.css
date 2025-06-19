@@ -150,6 +150,7 @@ p {
     background-color: #E5E7EB;
     align-items: center;
     justify-content:space-around;
+
 }
 
 .body2 {
@@ -165,14 +166,17 @@ p {
 }
 
 .cont2 {
-  
+  row-gap: 50px;
+  align-items: flex-end;
 
 }
 
 .bywho {
-   
+   display:flex;
+   font-size: 16px;
 }
 /* Quote Content */
+/* Popup Content */
 
 .prac {
     min-height: 488px;
@@ -193,3 +197,4 @@ p {
     display:flex;
 }
 
+/* Popup Content */
