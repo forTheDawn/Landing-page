@@ -181,10 +181,16 @@ p {
 .prac {
     min-height: 488px;
     background-color: white;
+    display:flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .Popup {
     display: flex;
+    background-color: #3882F6;
+    padding: 48px;
+    
 }
 
 .head2 {
