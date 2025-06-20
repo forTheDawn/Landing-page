@@ -218,6 +218,7 @@ p {
     display:flex;
     color: white;
     font-size: 20px;
+    width: 700px;
 }
 
 .Signup2 {
@@ -226,7 +227,9 @@ p {
     border: 2px solid white;
     border-radius: 5px;
     color:white;
-    padding: 8px 16px;
+    padding: 8px 39px;
+    font-weight: 800;
+    font-size: 16px;
 }
 
 /* Popup Content */
