@@ -111,6 +111,7 @@ p {
     font-weight: 900;
     height: 58px;
     width: 1013px;
+    margin-bottom: 40px;
 }
 
 .information {
@@ -121,7 +122,6 @@ p {
     justify-content: center;
     align-content: center;
     flex-wrap: wrap;
-    row-gap: 50px;
 }
 
 .containuhh {
